@@ -1,0 +1,101 @@
+
+header h1 {
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+header {
+    padding: 10px;
+    background-color: rgb(17, 124, 143);
+}
+nav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+nav a {
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+    float: left;
+    color: white;
+}
+#id2, #id1{
+    
+    float : right;
+    display : inline-block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+}
+
+main {
+    float: left;
+    margin: 0;
+    width:75%;
+    background-color: rgb(233, 219, 219);
+    
+}
+#id4{
+    margin-top: 0px;
+    margin-left: 0px;
+    padding-left: 50px;
+    background-color: cornflowerblue;
+}
+h2 {
+    padding: 10px;
+}
+section {
+    min-height: 30vh;
+    margin-left: 50px;
+}
+#id3{
+    width: 200px;
+    height: 150px;
+}
+img{
+    float:left;
+    margin-right: 20px;
+}
+a {
+    text-decoration: none;
+    color: rgb(73, 61, 61);
+}
+#id5{
+    float: inline-end;
+}
+
+footer {
+    clear: both;
+    margin: 0;
+    padding: 10px;
+    background-color: #333;
+    overflow: hidden;
+    text-align: center;
+}
+
+footer a {
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+    float: center;
+    color: white;
+} 
+aside {
+    float: right;
+    margin: 0;
+    width: 25%;
+    height: 620px;
+    
+    
+    background-color: cyan;
+    font-style: italic;
+    
+  }
+  aside h3{
+      padding: 10px;
+      text-align: center;
+      height: 30px;
+      background-color: crimson;
+      margin: 0px;
+  }
